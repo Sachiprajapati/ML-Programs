@@ -4,22 +4,22 @@ This repository hosts a collection of machine learning projects completed as cou
 <br><br>
 <b>Projects Included
 <br><br>
-<b>BPNN Classifier Description</b>:
+BPNN Classifier Description:
 <br>
 A Binary Classification model using a Backpropagation Neural Network. Demonstrates fundamental neural network training for a simple prediction task.
 <br><br>
-<b>PCA and LDA Description</b>: 
+PCA and LDA Description: 
 <br>
 Implementations of Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA). Focuses on dimensionality reduction to simplify datasets and improve model efficiency.
 <br><br>
-<b>Recommender System Description</b>:
+Recommender System Description:
 <br>
 A basic recommender system for suggesting items. Illustrates core concepts behind personalized recommendations.
 <br><br>
-<b>Sentiment Analysis Description</b>:
+Sentiment Analysis Description:
 <br>
 A project focused on Natural Language Processing (NLP) to determine the sentiment (e.g., positive/negative) of text. Covers text preprocessing and classification for sentiment detection.
 <br><br>
-<b>Clustering Description</b>: 
+Clustering Description: 
 <br>
 Exploration of various unsupervised clustering algorithms. Aims to group similar data points and discover inherent patterns within datasets.
